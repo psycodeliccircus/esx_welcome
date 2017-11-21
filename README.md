@@ -1,6 +1,6 @@
 # esx_welcome
 
--- esx_welcome script is a basic script to welcome people to the server.
+The esx_welcome script is a basic script to welcome people into the server.
 it will do this by automatically writing what you want in the chat, when people spawn. 
 I made this script to practice my LUA abilities. so dont espect it to be the best.
 
